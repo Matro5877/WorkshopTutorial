@@ -1,0 +1,8 @@
+assistant_version: 1.4.0
+library_version: 1.0.3
+last_updated: 2024-10-22
+anim_processed_time: 2024-10-22 17:16:00.695055
+injection_clients:
+  c:/Users/GAME1/AppData/Local/RivalsofAether/workshop/WorkshopTutorial/scripts/_readme.gml:
+  - c:/Users/GAME1/AppData/Local/RivalsofAether/workshop/WorkshopTutorial/assistant/.inject/attacks.gml
+script_processed_time: 2024-10-22 17:58:07.454863
